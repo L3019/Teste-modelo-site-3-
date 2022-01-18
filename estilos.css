@@ -1,0 +1,371 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+* {font-family:sans-serif,arial,helvetica,verdana;}
+
+body {
+
+	background: #2E8B57;
+	margin:0px;
+	font-family:sans-serif,arial;
+
+
+		
+} 
+
+#h1 {
+	letter-spacing:1px; font-style: italic; font-size: 20px; text-align: left;
+}
+
+h2 {
+	font-family: arial;
+	color: #fff;
+	text-align: center;
+	text-indent: 10px;
+	 color: #FFFFF0 ; 
+	padding: 5px;
+	margin: auto;
+	width: 60%;
+	float: justify;
+}
+
+
+#h3{
+letter-spacing:1px; font-style: italic; font-size: 30px; text-align: center;
+
+}
+
+#car {line-height: 150%;
+	text-align: left;
+	text-indent: 10px;
+	 color:  ; 
+	padding: 20px;
+	margin: auto;
+	width: 80%;
+	float: justify;
+}
+
+
+p {
+	line-height: 150%;
+	text-align: left;
+	text-indent: 10px;
+	 color: #FFFFF0 ; 
+	padding: 20px;
+	margin: auto;
+	width: 80%;
+	float: justify;
+	font-family:  arial;
+}
+
+#topo{
+	height:auto; width:auto;
+	margin:0;
+	padding:0px; 0;
+	width:100%;
+	border-radius: 0px 15px 0 0;
+	text-align:center;
+
+}
+#colunas {
+	height:400px; /* apagar depois */ 
+	background-color:#222;
+}
+#contato {
+	height:500px; /* apagar depois */
+	margin-top:5px;
+	background-color:#222;
+	color:#EEE;
+}
+
+
+
+#rodape{
+	width:auto;
+	margin:0;
+	padding:20px 0;
+	color:#FFF;
+	text-align:center;
+	box-sizing:border-box;
+	border-radius: 15px 15px 15px 15px;
+}
+#menu,#pesquisa {
+	background-color:#446135;
+	color:#FFF;
+	font-size:12px;
+	margin-top:10px;
+	padding:20px 0;
+	border-top:solid 3px #000;
+	width: 100%;
+	text-align: right;
+}
+#pesquisa {
+	padding: 15px 20px 0 20px;
+	width: 30%;
+	text-align:center;
+}
+#menu a{
+	color:#FFF;
+	text-decoration:none;
+	padding:20px 30px;
+	border-right:solid 2px #574;
+}
+#menu a:hover{
+	background-color:#444;
+	border-top:solid 3px #f90;
+}
+.container{
+	width:750px;
+	margin:auto;
+}
+
+img {
+
+	height:300px;
+	width: 550px;
+	margin-top:1px;
+	 background-repeat: no-repeat;
+	 margin: 0 10px 10px 0;
+  padding-left: 400px;
+}
+
+#player {
+	
+  outline: none;
+  	float: right;
+	margin-top:1px;
+	
+	 background-repeat: no-repeat;
+	 background-size: cover;
+  margin: 0 10px 10px 0;
+
+	border-radius: auto;
+
+}
+
+#star {
+	outline: none;
+	float: right;
+	outline: none;
+  	float: right;
+	margin-top:1px;
+	border:solid 4px #446135;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+  margin: 0 10px 10px 0;
+	
+}
+
+#star1 {
+	outline: none;
+	float: right;
+	outline: none;
+  	float: center;
+	margin-top:1px;
+	
+	 background-repeat: no-repeat;
+	 background-size: cover;
+  margin: 0 10px 10px 0;
+  padding-right: 300px;
+
+  }
+
+  #banner {
+	background-image:url(inicio.gif); 
+	height:300px;
+	width: 500px;
+	box-sizing:border-box;
+	margin-top:1px;
+	border:solid 4px #446135;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 float: left;
+  margin: 0 10px 10px 0;
+  padding-left: 50px;
+	 
+}
+
+
+#baner1 {
+	background-image:url(trab.jpg); 
+	height:300px;
+	width: 500px;
+	box-sizing:border-box;
+	margin-top:1px;
+	border:solid 4px #446135;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 float: left;
+  margin: 0 10px 10px 0;
+  padding-left: 50px;
+	 
+}
+
+#banneu{
+	background-image:url(rebeldarth_01.gif); 
+	height:300px;
+	width: 500px;
+	box-sizing:border-box;
+	margin-top:1px;
+	border:solid 4px #446135;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 float: left;
+  margin: 0 10px 10px 0;
+  padding-left: 50px;
+	 
+}
+
+
+  #ban5 {
+	background-image:url(Geeks.jpg); 
+	height:300px;
+	width: 500px;
+	box-sizing:border-box;
+	margin-top:1px;
+	border:solid 4px #446135;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 float: left;
+  margin: 0 10px 10px 0;
+  padding-left: 50px;
+	 
+}
+
+ul, li, dt {
+	line-height: 150%;
+	text-align: left;
+	text-indent: 10px;
+	 color: #FFFFF0 ; 
+	padding: 20px;
+	margin: auto;
+	width: 80%;
+	float: justify;
+	font-family:  arial;
+}
+
+DT{
+	line-height: 150%;
+	text-align: left;
+	text-indent: 10px;
+	 color: #FFf ; 
+	padding: 20px;
+	margin: auto;
+	width: 80%;
+	float: justify;
+	font-family:  arial;
+
+}
+
+#ban3 {
+	background-image:url(rebeldarth_01.gif); trab.jpg;
+	height:250px;
+	width: 380px;
+	box-sizing:border-box;
+	margin-top:1px;
+	border:solid 4px #446135;
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 float: left;
+  margin: 0 10px 10px 0;
+	 
+}
+
+
+#cinza {
+	background-color:#666;
+}
+#azul {
+	background-color:#079;
+	margin-left:14px;
+	margin-right:7px;
+}
+#verde {
+	background-color:#096;
+	margin-left:7px;
+	margin-right:14px;
+}
+#laranja {
+	background-color:#F90;
+}
+.flex{
+	display:flex;
+}
+article {
+	flex:1;
+	height:300px;
+	margin-top:25px;
+	background-image:url(canto.png);
+	background-repeat:no-repeat;
+	background-position:bottom right;
+}
+#mapa {
+	width:500px;
+}
+#form {
+	width:280px;
+}
+#touch input,#touch textarea{
+	width:280px;
+	resize:none;
+	border:none;
+	padding:8px;
+	margin-bottom:10px;
+	font-size:12px;
+	font-family:sans-serif,arial;
+	background-color:#333;
+	color:#ccc;
+}
+#touch #reset,#touch #submit{
+	margin:25px 10px 0px 0px;
+	width:70px;
+	padding:10px 0;
+	box-sizing:border-box;
+}
+#search {
+	background-color:#404040;
+	padding: 4px;
+	border: 0;
+	width:160px;
+	color: #ccc;
+	outline: none;
+	font-size:12px;
+}
+#enviar {
+	border: 0;
+	background-image: url(lupa.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color:#404040;
+	width:36px;
+	height: 22px;
+	outline: none;
+	margin-left: -5px;
+}
+#colunas h2 {
+	font-family: 'Pacifico', cursive;
+	color: #fff;
+	font-weight: 100;
+	line-height:25px;
+	padding-left:100px;
+}
+
+
+
+
+
+
+#video {
+  height:auto;
+	width: auto;
+	box-sizing:border-box;
+	margin-top:1px;
+	border:solid 4px #446135;
+	 background-repeat: no-repeat;
+	 background-size:contain;
+	 float: right;
+  margin: 0 10px 10px 0;
+}
+
+
+
+
